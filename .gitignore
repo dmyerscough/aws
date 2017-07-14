@@ -1,0 +1,7 @@
+*.pyc
+*.swp
+*.pyo
+.coverage
+.tox
+*cover*
+*env*
